@@ -1,2 +1,2 @@
-# clwo_android_app
-Android app for the clwo.eu community
+# CLWO Android app
+Android app for the [CLWO](https://clwo.eu) community.
