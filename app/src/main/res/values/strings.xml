@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">CLWO</string>
+    <string name="toolbar" translatable="false">Classy Wolves</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Classy Wolves</string>
+    <string name="nav_header_subtitle" translatable="false">clwo.eu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="other">Other</string>
+    <string name="player_profiles">Player Profiles</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="rules">Rules</string>
+    <string name="jailbreak" translatable="false">Jailbreak</string>
+    <string name="forums">Forums🔗</string>
+    <string name="staff">Staff</string>
+    <string name="general_rules">General Rules</string>
+    <string name="server_status">Server Status</string>
+    <string name="general">General</string>
+    <string name="servername">Servername</string>
+    <string name="image_view_1">Image view 1</string>
+    <string name="image_view_2">Image view 2</string>
+    <string name="player">Player</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="set_as_wallpaper" >Set as wallpaper</string>
+    <string name="refreshing">Refreshing</string>
+    <string name="opening_prev_page">Opening previous page</string>
+    <string name="closing_activity">Closing Activity</string>
+    <string name="sure_leave_app">Are you sure you want to leave the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="set_wallpaper">Setting Wallpaper</string>
+    <string name="confirm_set_wallpaper">Are you sure you want to change your wallpaper(s)?</string>
+    <string name="setting_wallpapers">Setting Wallpaper(s)</string>
+    <string name="unknown">Unknown</string>
+    <string name="apiError">Network Error</string>
+    <string name="unableToFetch">Unable to fetch data</string>
+    <string name="ttt" translatable="false">TTT</string>
+    <string name="sourcebans" translatable="false">SourceBans</string>
+</resources>

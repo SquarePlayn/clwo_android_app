@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="forums">Forums</string>
+    <string name="general">Algemeen</string>
+    <string name="general_rules">Algemene regels</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="nav_header_desc">Navigatie header</string>
+    <string name="navigation_drawer_close">Sluit navigatie drawer</string>
+    <string name="navigation_drawer_open">Open navigatie drawer</string>
+    <string name="other">Overig</string>
+    <string name="player_profiles">Spelers profielen</string>
+    <string name="rules">Regels</string>
+    <string name="server_status">Server Status</string>
+    <string name="wallpaper">Achtergrond</string>
+    <string name="image_view_1">Image view 1</string>
+    <string name="image_view_2">Image view 2</string>
+    <string name="player">Speler</string>
+    <string name="servername">Servernaam</string>
+    <string name="set_as_wallpaper">Zet als achtergrond</string>
+    <string name="staff">Staff</string>
+    <string name="refreshing">Bezig met vernieuwen</string>
+    <string name="no">Nee</string>
+    <string name="opening_prev_page">Vorige pagina aan het openen</string>
+    <string name="closing_activity">Sluit activiteit</string>
+    <string name="confirm_set_wallpaper">Weet je zeker dat je de achtergrond wilt veranderen?</string>
+    <string name="set_wallpaper">Achtergrond aan het veranderen</string>
+    <string name="setting_wallpapers">Achtergrond(en) aan het veranderen</string>
+    <string name="sure_leave_app">Weet je zeker dat je de app wilt verlaten?</string>
+    <string name="unknown">Onbekend</string>
+    <string name="yes">Ja</string>
+    <string name="apiError">Netwerk Error</string>
+    <string name="unableToFetch">Gegevens ophalen onsuccesvol</string>
+</resources>
