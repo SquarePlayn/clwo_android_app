@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/general">
+        <menu>
+            <item
+                android:id="@+id/nav_status"
+                android:icon="@drawable/ic_menu_status"
+                android:title="@string/server_status" />
+            <item
+                android:id="@+id/nav_general_rules"
+                android:icon="@drawable/ic_menu_rules"
+                android:title="@string/general_rules" />
+            <item
+                android:id="@+id/nav_staff"
+                android:icon="@drawable/ic_menu_staff"
+                android:title="@string/staff" />
+            <item
+                android:id="@+id/nav_forums"
+                android:icon="@drawable/ic_menu_forum"
+                android:title="@string/forums" />
+        </menu>
+    </item>
+
+    <item android:title="@string/jailbreak">
+        <menu>
+            <item
+                android:id="@+id/nav_jailbreak_rules"
+                android:icon="@drawable/ic_menu_rules"
+                android:title="@string/rules" />
+            <item
+                android:id="@+id/nav_livechat"
+                android:icon="@drawable/ic_menu_chat"
+                android:title="@string/live_chat" />
+            <item
+                android:id="@+id/nav_profiles"
+                android:icon="@drawable/ic_menu_profiles"
+                android:title="@string/player_profiles" />
+            <!--Disabled because SourceBans currently does not work well
+             on Chrome-like browsers -->
+            <!--<item-->
+                <!--android:id="@+id/nav_jb_sourcebans"-->
+                <!--android:icon="@drawable/round_gavel_black_48"-->
+                <!--android:title="@string/sourcebans" />-->
+        </menu>
+    </item>
+
+    <item android:title="@string/ttt">
+        <menu>
+            <item
+                android:id="@+id/nav_ttt_rules"
+                android:icon="@drawable/ic_menu_rules"
+                android:title="@string/rules" />
+            <!--Disabled because SourceBans currently does not work well
+             on Chrome-like browsers -->
+            <!--<item-->
+                <!--android:id="@+id/nav_ttt_sourcebans"-->
+                <!--android:icon="@drawable/round_gavel_black_48"-->
+                <!--android:title="@string/sourcebans" />-->
+        </menu>
+    </item>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_wallpaper"
+                android:icon="@drawable/ic_menu_wallpaper"
+                android:title="@string/wallpaper" />
+
+        </menu>
+    </item>
+
+</menu>
